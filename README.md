@@ -1,7 +1,7 @@
 # beetles
 The beatles line up
 
-[Code Description]()
+[Code Description](https://github.com/Fran0616/beetles/blob/master/beatles.py)
 =
 
 This code utilize the append and insert method to show the changes in line up of the beatles. 
